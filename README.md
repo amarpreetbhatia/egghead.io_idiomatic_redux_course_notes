@@ -1,3 +1,4 @@
+## I forked it for my quick reference
 # Building React Applications with Idiomatic Redux (Egghead.io)
 
 ![](https://s3.amazonaws.com/f.cl.ly/items/212E0u153X2A18131808/Image%202016-07-10%20at%2012.00.28%20PM.png?v=feaddbc8)
